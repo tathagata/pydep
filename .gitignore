@@ -55,3 +55,6 @@ docs/_build/
 
 # Pydep Project Specific
 dependecy_list
+
+# Emacs
+.py~
