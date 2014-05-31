@@ -52,3 +52,6 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+
+# Pydep Project Specific
+dependecy_list
